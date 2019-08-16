@@ -1,7 +1,9 @@
 ## Fact or Fake - Fake News Detector
 
-Author: Uma Krithika
-Description: This is a fake news detection model that has been trained on news articles about 2016 US presidential elections.
+<br>
+<strong>Author:</strong> <br> Uma Krithika
+<br>
+<strong>Description:</strong> <br> This is a fake news detection model that has been trained on news articles about 2016 US presidential elections.
 
 ## Project Organization 
 ------------
